@@ -1,2 +1,3 @@
-# CursoaluraHTML5CSS3-02
-parte 2 curso Alura HTML5 CSS3
+# Atualizações do 1 pro 2:
+
+foi adicionado uma página com os produtos existentes.
